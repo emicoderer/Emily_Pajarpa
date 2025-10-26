@@ -17,6 +17,10 @@ html_page = """
 <head>
     <meta charset="UTF-8">
     <title>Student Information Management System</title>
+
+    <meta property="og:title" content="Student Information Management System">
+    <meta property="og:url" content="https://emily-pajarpa.onrender.com">
+    
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
